@@ -1,1 +1,0 @@
-# multimodal-image-generation-studio
